@@ -1,6 +1,6 @@
-- 👋 Hi, I’m a Data analyst and entry specialist proficient in Excel, Power BI,SQL and Python.
+- 👋 Hi, I’m a Data analyst/Scientist and entry specialist proficient in Excel, Power BI,SQL, Python and AI/ML.
 - 👀 I’m interested in Data Analysis entry roles(internship, remote, permanent, freelancing).
-- 🌱 I'm currently learning Python and AI/ML and in the nearest future,Tableau
+- 🌱 I'm currently learning Python, AI/ML and Tableau.
 - 💞️ I’m looking to collaborate on Business/Marketing data analysis to make sound business decisions which will help companies achieve corporate goals and objectives.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love food😊😊
